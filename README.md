@@ -4,8 +4,10 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 
 * [Awesome Favourites](#awesome-favourites)
   * [Technologies](#technologies)
+  * [Object-Oriented Land](#object-oriented-land)
   * [Blogs](#blogs)
   * [Books](#books)
+  * [Portals](#portals)
 
 ----
 
@@ -14,13 +16,28 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 
 * [Technology Radar](http://www.thoughtworks.com/radar/) - Technology trends.
 
+## Object-Oriented Land
+*Object-orientation, patterns etc*
+
+* [CQRS](http://www.cqrsinfo.com/) - Command Query Responsibility Segregation
+* 
+
 ## Blogs
 *To read in spare time*
 
-* [Code as Craft](http://codeascraft.com/) - By engineers at Etsy.
+* [Martin Fowler's Blog](http://martinfowler.com/) - Martin's Blog.
 * [8th Light](http://blog.8thlight.com/) - Craftsmanship, Coding, Testing etc.
+* [Code as Craft](http://codeascraft.com/) - By engineers at Etsy.
 
 ## Books
 *Opened with expectation and closed with profit*
 
 * [The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) - Pragmatic Programmers get the job done, and do it well..
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - Describes ways to incorporate domain modeling into software development
+
+## Portals
+*Conferences, communities, magazines..*
+
+* [InfoQ](http://www.infoq.com) -QCon conference home. Tech talks and articles.
+* [Java DZone](http://java.dzone.com/) - Tech articles.
+* [Java Magazine](http://www.oraclejavamagazine-digital.com) - Bi-monthly digital publication about Java technology ecosystem
