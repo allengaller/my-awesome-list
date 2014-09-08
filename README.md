@@ -8,6 +8,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
   * [Blogs](#blogs)
   * [Books](#books)
   * [Portals](#portals)
+  * [Projects](#projects)
 
 ----
 
@@ -15,6 +16,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 *Tools, frameworks, libraries*
 
 * [Technology Radar](http://www.thoughtworks.com/radar/) - Technology trends.
+* [Radio-T](http://www.radio-t.com/) - Technology podcasts in Russian.
 
 ## Object-Oriented Land
 *Object-orientation, patterns etc*
@@ -41,3 +43,8 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [InfoQ](http://www.infoq.com) -QCon conference home. Tech talks and articles.
 * [Java DZone](http://java.dzone.com/) - Tech articles.
 * [Java Magazine](http://www.oraclejavamagazine-digital.com) - Bi-monthly digital publication about Java technology ecosystem
+
+
+## Projects
+
+* [Project Euler](https://projecteuler.net/) - series of challenging mathematical/computer programming problems.
