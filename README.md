@@ -17,6 +17,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 
 * [Technology Radar](http://www.thoughtworks.com/radar/) - Technology trends.
 * [Radio-T](http://www.radio-t.com/) - Technology podcasts in Russian.
+* [JODD](http://jodd.org/) - Java micro frameworks, tools and utilities, under 1.5 MB.
 
 ## Object-Oriented Land
 *Object-orientation, patterns etc*
