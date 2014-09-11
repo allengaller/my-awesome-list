@@ -19,6 +19,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Radio-T](http://www.radio-t.com/) - Technology podcasts in Russian.
 * [JODD](http://jodd.org/) - Java micro frameworks, tools and utilities, under 1.5 MB.
 * [MicroJS](http://microjs.com/) - JavaScript micro frameworks.
+* [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java.
 
 ## Object-Oriented Land
 *Object-orientation, patterns etc*
