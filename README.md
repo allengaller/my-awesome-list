@@ -20,6 +20,8 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [JODD](http://jodd.org/) - Java micro frameworks, tools and utilities, under 1.5 MB.
 * [MicroJS](http://microjs.com/) - JavaScript micro frameworks.
 * [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java.
+* [RAML](http://raml.org/) - REST API modelling language.
+* [jHades](http://jhades.org/) - Java classpath troubleshooting.
 
 ## Object-Oriented Land
 *Object-orientation, patterns etc*
@@ -33,6 +35,8 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Martin Fowler's Blog](http://martinfowler.com/) - Martin's Blog.
 * [8th Light](http://blog.8thlight.com/) - Craftsmanship, Coding, Testing etc.
 * [Code as Craft](http://codeascraft.com/) - By engineers at Etsy.
+* [Zach Holman](http://zachholman.com/) - Writing by Zach Holman.
+* [Speaking.io](http://speaking.io/) - Public speaking thoughts.
 
 ## Books
 *Opened with expectation and closed with profit*
