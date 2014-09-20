@@ -22,6 +22,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java.
 * [RAML](http://raml.org/) - REST API modelling language.
 * [jHades](http://jhades.org/) - Java classpath troubleshooting.
+* [Apache Onami](http://onami.apache.org/) - Google Guice extensions not provided out of the box
 
 ## Object-Oriented Land
 *Object-orientation, patterns etc*
