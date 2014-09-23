@@ -24,6 +24,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [jHades](http://jhades.org/) - Java classpath troubleshooting.
 * [Apache Onami](http://onami.apache.org/) - Google Guice extensions not provided out of the box
 
+
 ## Object-Oriented Land
 *Object-orientation, patterns etc*
 
@@ -38,6 +39,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Code as Craft](http://codeascraft.com/) - By engineers at Etsy.
 * [Zach Holman](http://zachholman.com/) - Writing by Zach Holman.
 * [Speaking.io](http://speaking.io/) - Public speaking thoughts.
+* [One Thing Well](http://onethingwell.org/) - A weblog about simple, useful software.
 
 ## Books
 *Opened with expectation and closed with profit*
