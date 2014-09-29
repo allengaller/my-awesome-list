@@ -53,6 +53,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [InfoQ](http://www.infoq.com) -QCon conference home. Tech talks and articles.
 * [Java DZone](http://java.dzone.com/) - Tech articles.
 * [Java Magazine](http://www.oraclejavamagazine-digital.com) - Bi-monthly digital publication about Java technology ecosystem
+* [CodinGames](http://www.codingame.com) - Games for programmers. 
 
 
 ## Projects
