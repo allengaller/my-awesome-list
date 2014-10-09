@@ -48,12 +48,13 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - Describes ways to incorporate domain modeling into software development
 
 ## Portals
-*Conferences, communities, magazines..*
+*Conferences, communities, magazines, info sites..*
 
 * [InfoQ](http://www.infoq.com) -QCon conference home. Tech talks and articles.
 * [Java DZone](http://java.dzone.com/) - Tech articles.
 * [Java Magazine](http://www.oraclejavamagazine-digital.com) - Bi-monthly digital publication about Java technology ecosystem
 * [CodinGames](http://www.codingame.com) - Games for programmers. 
+* [PuppetCookBook](http://www.puppetcookbook.com/) - Puppet cookbook.
 
 
 ## Projects
