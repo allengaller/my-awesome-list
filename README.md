@@ -40,6 +40,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Zach Holman](http://zachholman.com/) - Writing by Zach Holman.
 * [Speaking.io](http://speaking.io/) - Public speaking thoughts.
 * [One Thing Well](http://onethingwell.org/) - A weblog about simple, useful software.
+* [Romain Guy](http://www.curious-creature.org/category/android/) - Romain Guy android blog. 
 
 ## Books
 *Opened with expectation and closed with profit*
