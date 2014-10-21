@@ -17,6 +17,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 
 * [Technology Radar](http://www.thoughtworks.com/radar/) - Technology trends.
 * [Radio-T](http://www.radio-t.com/) - Technology podcasts in Russian.
+* [Razbor Poletov](http://razbor-poletov.com/) - Podcasts
 * [JODD](http://jodd.org/) - Java micro frameworks, tools and utilities, under 1.5 MB.
 * [MicroJS](http://microjs.com/) - JavaScript micro frameworks.
 * [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java.
