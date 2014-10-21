@@ -23,6 +23,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [RAML](http://raml.org/) - REST API modelling language.
 * [jHades](http://jhades.org/) - Java classpath troubleshooting.
 * [Apache Onami](http://onami.apache.org/) - Google Guice extensions not provided out of the box
+* [Ionic Framework](http://ionicframework.com/) - Hybrid mobile webapps
 
 
 ## Object-Oriented Land
