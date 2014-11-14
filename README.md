@@ -37,6 +37,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 *To read in spare time*
 
 * [Martin Fowler's Blog](http://martinfowler.com/) - Martin's Blog.
+* [DevArt](https://devart.withgoogle.com/) - Art made with Code.
 * [8th Light](http://blog.8thlight.com/) - Craftsmanship, Coding, Testing etc.
 * [Code as Craft](http://codeascraft.com/) - By engineers at Etsy.
 * [Zach Holman](http://zachholman.com/) - Writing by Zach Holman.
