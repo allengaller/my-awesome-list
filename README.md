@@ -74,3 +74,4 @@ A special block to reduce my pain with Android development
 * [DBFlow](https://github.com/Raizlabs/DBFlow) - ORM
 * [Network Intents](https://github.com/pocmo/Android-Network-Intents) - send intents over network to listeners.
 * [TinyMessageBus](https://github.com/beworker/tinybus) - tiny simple MB 
+* [Material Dialogs](https://github.com/afollestad/material-dialogs) - Material Dialogs
