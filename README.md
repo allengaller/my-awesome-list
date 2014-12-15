@@ -9,6 +9,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
   * [Books](#books)
   * [Portals](#portals)
   * [Projects](#projects)
+  * [Android](#android)
 
 ----
 
@@ -64,3 +65,12 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 ## Projects
 
 * [Project Euler](https://projecteuler.net/) - series of challenging mathematical/computer programming problems.
+
+## Android
+A special block to reduce my pain with Android development
+
+* [Icons](https://github.com/theDazzler/droidicon) - a lot of icons 
+* [Snackbars](https://github.com/nispok/snackbar) - material design snackbars
+* [DBFlow](https://github.com/Raizlabs/DBFlow) - ORM
+* [Network Intents](https://github.com/pocmo/Android-Network-Intents) - send intents over network to listeners.
+* [TinyMessageBus](https://github.com/beworker/tinybus) - tiny simple MB 
