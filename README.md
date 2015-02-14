@@ -66,6 +66,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 ## Projects
 
 * [Project Euler](https://projecteuler.net/) - series of challenging mathematical/computer programming problems.
+* [Operation GO](http://gocode.io/) - Game to learn Go Lang
 
 ## Android
 A special block to reduce my pain with Android development
