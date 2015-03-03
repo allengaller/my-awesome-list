@@ -15,18 +15,19 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 ## Technologies
 *Tools, frameworks, libraries*
 
-* [Technology Radar](http://www.thoughtworks.com/radar/) - Technology trends.
-* [Radio-T](http://www.radio-t.com/) - Technology podcasts in Russian.
+* [Technology Radar](http://www.thoughtworks.com/radar/) - Technology trends
+* [Radio-T](http://www.radio-t.com/) - Technology podcasts in Russian
 * [Razbor Poletov](http://razbor-poletov.com/) - Podcasts
-* [JODD](http://jodd.org/) - Java micro frameworks, tools and utilities, under 1.5 MB.
-* [MicroJS](http://microjs.com/) - JavaScript micro frameworks.
-* [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java.
-* [RAML](http://raml.org/) - REST API modelling language.
+* [JODD](http://jodd.org/) - Java micro frameworks, tools and utilities, under 1.5 MB
+* [MicroJS](http://microjs.com/) - JavaScript micro frameworks
+* [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java
+* [RAML](http://raml.org/) - REST API modelling language
 * [jHades](http://jhades.org/) - Java classpath troubleshooting.
 * [Apache Onami](http://onami.apache.org/) - Google Guice extensions not provided out of the box
 * [Ionic Framework](http://ionicframework.com/) - Hybrid mobile webapps
 * [Jolokia](http://www.jolokia.org/) - remote JMX with JSON over HTTP
 * [Byteman](http://byteman.jboss.org/) - modify bytecode at Runtime
+* [JitPack](https://jitpack.io) - Easy to use package repository for Gradle, Maven and Android projects
 
 ## Blogs
 *To read in spare time*
