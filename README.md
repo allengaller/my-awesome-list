@@ -4,7 +4,6 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 
 * [Awesome Favourites](#awesome-favourites)
   * [Technologies](#technologies)
-  * [Object-Oriented Land](#object-oriented-land)
   * [Blogs](#blogs)
   * [Books](#books)
   * [Portals](#portals)
@@ -29,13 +28,6 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Jolokia](http://www.jolokia.org/) - remote JMX with JSON over HTTP
 * [Byteman](http://byteman.jboss.org/) - modify bytecode at Runtime
 
-
-## Object-Oriented Land
-*Object-orientation, patterns etc*
-
-* [CQRS](http://www.cqrsinfo.com/) - Command Query Responsibility Segregation
-* 
-
 ## Blogs
 *To read in spare time*
 
@@ -47,6 +39,7 @@ A collection of interesting resources. Software engineering, Java, DevOps.
 * [Speaking.io](http://speaking.io/) - Public speaking thoughts.
 * [One Thing Well](http://onethingwell.org/) - A weblog about simple, useful software.
 * [Romain Guy](http://www.curious-creature.org/category/android/) - Romain Guy android blog. 
+* [Html/Css code guide](http://mdo.github.io/code-guide/) - Write Html/Css right.
 
 ## Books
 *Opened with expectation and closed with profit*
